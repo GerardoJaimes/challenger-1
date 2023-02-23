@@ -1,0 +1,195 @@
+.bg-primari{
+    background-color: #9d29b0;
+}
+
+body {
+    background-color: white;
+    width: 100%;
+    font-family:Arial, Helvetica, sans-serif;
+}
+    header
+    {
+        width: 100%;
+        display:flex;
+        flex-direction: row;
+    }
+        .head1>img
+        {
+            width: 100%;
+            display:flex;
+            flex-direction:row; 
+            margin-left: 0;
+            padding: 10px 10px;
+        }
+        .head2
+        {
+            margin-left: 450px;
+            padding: 25px 10px;
+        }
+            .head2 a:hover
+            {
+                color: white;
+            }
+            .head2>ul
+            {
+                font-size: 15px;
+                margin: 0px;
+                text-decoration: none;
+                color: black;    
+                gap: 25px;
+                display:flex;
+                flex-direction:row;
+                
+                list-style: none;
+            }
+            a {
+                color: black;
+                font-size: 15px;
+                text-decoration: none;
+            }
+            .imagen
+            {
+                height: 580px;
+                background-image: url(../challenge/challenge/recursos/imagenes-generales/banner.jpg);
+                background-size: 100%;
+            }
+            .titulo
+            {
+                font-size: 30px;
+                width: 40%;
+                color: white;
+                position: relative;
+                bottom: 380px;
+                left: 200px ;
+            }
+            .boton{
+                
+                width: 10%;                
+                padding: 15px 10px;
+                position: relative;
+                bottom: 380px;
+                left: 200px ;
+                text-align: center;
+                
+            }
+                .boton a{
+                    font-size: 25px;                    
+                    color: white;
+                    text-decoration: none;
+                }
+                    
+    .banner1{
+        text-align: center;
+        position: relative;
+        margin: auto;
+        bottom:230px ;
+        line-height:0;
+        color: #999997;             
+    }
+        .banner1 a{
+            font-size: 20px;
+        }
+    .banner2
+    {
+        width: 100%;
+        display:flex;
+        flex-direction:row;
+        
+        justify-content: center;
+        position: relative;
+        margin: o auto;
+        bottom:220px ;
+    }
+    
+        .sub1
+        {    
+            background-color: #1bbc9b;
+            padding: 30px 30px;
+            display:flex;
+            flex-direction:row;
+            justify-content: center;
+        }
+        .sub2
+        {      
+            padding: 30px 30px;
+            display:flex;
+            flex-direction:row;
+            justify-content: center;
+        }
+        .sub3
+        {    
+            background-color: #3598db;
+            padding: 30px 30px;
+            display:flex;
+            flex-direction:row;
+            justify-content: center;
+        }
+        .sub4
+        {    
+            background-color: #2dcc72;
+            padding: 30px 30px;
+            display:flex;
+            flex-direction:row;
+            justify-content: center;
+        }
+    .banner3
+    {
+        text-align: center;
+        position: relative;
+        margin: 0px;
+        bottom:190px ;
+        line-height:0;
+        color: #999997;
+    }
+        .banner3 a
+        {
+            font-size: 20px;
+        }
+    .banner4
+    {
+        width: 100%;
+        display:flex;
+        flex-direction:row;
+        gap: 20px;
+        justify-content: center;
+        position: relative;
+        margin: 0 auto;
+        bottom:180px ;
+    }
+        .borde
+        {
+            width: 210px;
+            height: 330px;
+            border: 2px solid #883f9b;
+        }
+        .texto 
+        {
+            line-height:0;
+            position: relative;
+            margin-left: 20px;
+            top:10px ;
+            color: #bbbbbb;
+        }
+        h3 
+        {
+            COLOR:black;
+        }
+            .bot 
+            {
+                
+                width: 25% ;
+                
+                padding: 5px 15px;
+                position: relative;
+                bottom: -60px;
+                margin-left: 20px ;
+            }
+                .bot a
+                {
+                    font-size: 10px;
+                   
+                    color: white;
+                    text-decoration: none;
+                }
+                    
+                    
